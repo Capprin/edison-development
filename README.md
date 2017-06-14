@@ -1,2 +1,3 @@
 # edison-development
-Any project files made when playing with the Intel Edison
+
+Mostly experimental programming - nothing major. Just demonstrating control of the major edison interfaces
